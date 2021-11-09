@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrJCraft
-- 👀 I’m interested in python C++ and Java
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Possible world edit program for bedrock minecraft
+- 👀 I’m interested in programming languages, terrain generation, art, science, game design, and math.
+- 🌱 I’m currently learning Odin
+- 💞️ I’m looking to collaborate on Possible Terrain Generation program for a variety of programs.
 - 📫 How to reach me Discord MrJay#7775
 
 <!---
