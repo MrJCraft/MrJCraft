@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrJCraft
 - 👀 I’m interested in programming languages, terrain generation, art, science, game design, and math.
-- 🌱 I’m currently learning Odin
-- 💞️ I’m looking to collaborate on Possible Terrain Generation program for a variety of programs.
-- 📫 How to reach me Discord MrJay#7775
+- 🌱 I’m currently learning C and C++
+- 💞️ I am working on Terrain Generation.
+- 📫 How to reach my Discord MrJay#7775
 
 <!---
 MrJCraft/MrJCraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
