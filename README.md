@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrJCraft
+- 👋 Hi, I’m @MrJ
 - 👀 I’m interested in programming languages, terrain generation, art, science, game design, and math.
 - 🌱 I’m currently learning Odin
 - 💞️ I am working on Terrain Generation, Voxel Processing
